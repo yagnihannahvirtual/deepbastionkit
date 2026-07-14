@@ -1,0 +1,12 @@
+{
+  "name": "header-parser-9d4a5a",
+  "version": "1.0.0",
+  "description": "A header parser utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["header-parser", "utility"],
+  "license": "MIT"
+}
